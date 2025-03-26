@@ -1,6 +1,16 @@
 div{
     background-color: whitesmoke;
+    padding: 50px;
 }
 body{
     background-color: black;
+}
+ul{
+    display:inline-flex;
+    list-style: none;
+    font-size: 20px;
+}
+#box{
+    border-left: 50px;
+    border-color: whitesmoke;
 }
