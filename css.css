@@ -11,6 +11,14 @@ ul{
     font-size: 20px;
 }
 #box{
-    border-left: 50px;
-    border-color: whitesmoke;
+    border: outset;
+    
+    position: relative;
+    top: 60px;
+    
+    border-color: rgb(255, 255, 255);
+    padding: 90px;
+    padding-right: 40px;
+    padding-left: 40px;
+    
 }
