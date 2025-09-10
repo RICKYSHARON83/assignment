@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Page-1" id="6UcGca-GkddDS-T05k8G">
+    <mxGraphModel dx="1042" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-2" target="KQSbdmHsHn492-XkrHIj-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-2" value="&lt;i&gt;decide the place&lt;/i&gt;&lt;div&gt;&lt;i&gt;[kochin]&amp;nbsp;&lt;/i&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="373" y="100" width="102" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-2" target="KQSbdmHsHn492-XkrHIj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-7" target="8hwvYaawRcgfYrsn7lqr-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-7" value="&lt;i&gt;select the hotel to stay&lt;/i&gt;&lt;div&gt;&lt;i&gt;and how many day, nights&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337" y="250" width="174" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQSbdmHsHn492-XkrHIj-9" target="KQSbdmHsHn492-XkrHIj-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-9" value="&lt;i&gt;pre selected places like falls, mall, etc..&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="630" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-12" target="KQSbdmHsHn492-XkrHIj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-12" value="&lt;b&gt;&lt;i&gt;start&lt;/i&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-13" target="KQSbdmHsHn492-XkrHIj-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-13" value="&lt;i&gt;alternate places if pre planned places are closed or something&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KQSbdmHsHn492-XkrHIj-15" target="8hwvYaawRcgfYrsn7lqr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-15" value="&lt;i&gt;calculate the amount required check it is affordable and the way of transport&lt;/i&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="367.5" y="850" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-22" target="KQSbdmHsHn492-XkrHIj-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-22" value="&lt;i&gt;allot people to select hotel, select the places, what food will be available&amp;nbsp;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-26" target="8hwvYaawRcgfYrsn7lqr-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-26" value="&lt;i&gt;now calculate the cost of per head&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="363" y="1150" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KQSbdmHsHn492-XkrHIj-28" value="&lt;b&gt;&lt;i&gt;stop&lt;/i&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="380.25" y="1400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8hwvYaawRcgfYrsn7lqr-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.33333333333326" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-8" value="&lt;i&gt;hotel&amp;nbsp;&lt;/i&gt;&lt;div&gt;&lt;i&gt;4 nights,3 days&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Rs.8000&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hwvYaawRcgfYrsn7lqr-11" target="KQSbdmHsHn492-XkrHIj-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-11" value="mall=Rs.20000&lt;div&gt;water falls=Rs.500&lt;/div&gt;&lt;div&gt;boat ride=Rs.10000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KQSbdmHsHn492-XkrHIj-9" target="8hwvYaawRcgfYrsn7lqr-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8hwvYaawRcgfYrsn7lqr-18" target="KQSbdmHsHn492-XkrHIj-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-18" value="cost till now=Rs.38500&lt;div&gt;tranport-train&lt;/div&gt;&lt;div&gt;up and down =Rs.8000&lt;/div&gt;&lt;div&gt;total=Rs.46500&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365.25" y="1011" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8hwvYaawRcgfYrsn7lqr-24" target="KQSbdmHsHn492-XkrHIj-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8hwvYaawRcgfYrsn7lqr-24" value="total=46500&lt;div&gt;per head=Rs.4650&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="371" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
